@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url(img/gradient-white-monochrome-background_23-2149017048.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.logo img{
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+}
+
+#name {
+    margin: 20px;
+    padding: 50px;
+}
+
+.container {
+    float: left;
+    padding-top: 20px;
+}
+
+.container h1 {
+    font-family: "Alatsi", sans-serif;
+    font-size: 30px;
+    color: #1B1A55;
+    padding-bottom: 20px;
+}
+
+.container p {
+    font-family: sans-serif;
+    font-size: 15px;
+    color:  #000;
+    padding-bottom: 10px;
+    white-space: nowrap;
+}
+
+.container h2 {
+    font-family: "Alatsi", sans-serif;
+    font-size: 20px;
+    color: #1B1A55;
+    padding-bottom: 10px;
+}
+
+.fa-instagram {
+    font-size: 50px;
+    text-decoration: none;
+    color: #B5C0D0;
+}
+
+#name img {
+    width: 380px;
+    height: 380px;
+    overflow: hidden;
+    float: right;
+}
+
+.footer {
+    background-color: #B5C0D0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
+
+.footer a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+}
+
+.footer p {
+    color: #fff;
+    padding-left: 20px;
+}
